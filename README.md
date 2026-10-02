@@ -1,0 +1,2 @@
+# premium-ec-pricing-001-dynamic-pricing-strategy-templ
+You're leaving money on the table with static pricing. The Dynamic Pricing Strategy Template shows you exactly how to adjust prices in real-time based on demand, competition, and inventory—without needing expensive software.  Stop guessing on pricing and start optimizing for profit. This Notion template gives e-commerce operators a complete system
